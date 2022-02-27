@@ -14,7 +14,7 @@
   ##
   
   <div>
-     <img  align="left" width="690" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/52a74048376295.589658726148d.gif"/>
+     <img  align="left" width="695" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/52a74048376295.589658726148d.gif"/>
       <a href="https://www.instagram.com/a.guilhermee_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a><br><br>
     <a href="https://www.linkedin.com/in/artur-guilherme-56b579180/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><br><br>
     <a href="mailto:arturguilherme120@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
