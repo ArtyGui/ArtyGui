@@ -7,15 +7,15 @@
 
 <div align="center">
       <a href="https://github.com/ArtyGui">
-      <img  height="140em" src="https://github-readme-stats.vercel.app/api?username=ArtyGui&show_icons=true&theme=midnight-purple"/>
-      <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArtyGui&langs_count=8&theme=midnight-purple"/>
+      <img  height="130em" src="https://github-readme-stats.vercel.app/api?username=ArtyGui&show_icons=true&theme=github_dark"/>
+      <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArtyGui&langs_count=8&theme=github_dark"/>
   </div>
    
   ##
   
   <div>
      <img  align="left" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/52a74048376295.589658726148d.gif"/>
-      <a href="https://www.instagram.com/a.guilhermee_/" target="_blank" ><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a><br><br>
-    <a href="https://www.linkedin.com/in/artur-guilherme-56b579180/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><br><br>
-    <a href="mailto:arturguilherme120@gmail.com"  target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+      <a href="https://www.instagram.com/a.guilhermee_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a><br><br>
+    <a href="https://www.linkedin.com/in/artur-guilherme-56b579180/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><br><br>
+    <a href="mailto:arturguilherme120@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   </div>
