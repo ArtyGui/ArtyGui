@@ -2,7 +2,7 @@
  
  - :computer: Estudante de Engenharia da Computação.
  - 📬 Contato: arturguilherme120@gmail.com
- - 🎮 Passatempo: Ser bom/ruim em LOL
+ - 🎮 Passatempo: Ser bom/ruim em Valorant
  - ⚡ Curiosidades: Fascinado em futebol <img src="https://cdn.icon-icons.com/icons2/104/PNG/256/real_madrid_footballteam_18009.png" width="20px">
 
 <div align="center">
